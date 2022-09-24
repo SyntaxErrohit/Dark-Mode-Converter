@@ -1,0 +1,5 @@
+tk
+pdf2image
+numpy
+pillow
+img2pdf
